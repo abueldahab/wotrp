@@ -1,0 +1,560 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"int",
+				"intensity"
+			],
+			[
+				"Auditsectioitems",
+				"Auditsectionitems_model"
+			],
+			[
+				"Audit",
+				"Auditsectionitems_model"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"Audi",
+				"Auditstoreresults_model"
+			],
+			[
+				"audit",
+				"auditforstores"
+			],
+			[
+				"Audits",
+				"Auditsectionitems_model"
+			],
+			[
+				"Auditsection",
+				"Auditsectionitems_model"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"Auditse",
+				"Auditsection_model"
+			],
+			[
+				"Auditsect",
+				"Auditsection_model"
+			],
+			[
+				"Auditsec",
+				"Auditsectionitems_model"
+			],
+			[
+				"tabl",
+				"table_info"
+			],
+			[
+				"cival",
+				"ciformvalrun	Validation Run"
+			],
+			[
+				"Inven",
+				"InventoryStatus"
+			],
+			[
+				"Inventory",
+				"InventoryCondition"
+			],
+			[
+				"Invento",
+				"InventoryCondition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"snip lo	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"min",
+				"Minify Javascript to file"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"lo	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"sni",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"mi",
+				"Minify Javascript"
+			],
+			[
+				"packat",
+				"Package Control: Remove Package"
+			],
+			[
+				"fet	",
+				"Fetch: File"
+			],
+			[
+				"preiv	",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mar	",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pom",
+				"pomodoro"
+			],
+			[
+				"po",
+				"pomodoro"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"pomodoro"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"GIT",
+				"Git: Status"
+			],
+			[
+				"",
+				"CI Codeintel Helper: Create IDE helper"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 185.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/wot/.gitignore",
+		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/static/assets/php/email.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/static/assets/js/scripts.js",
+		"/C/Users/aliciawilkerson/Documents/Tools/jQuery/CeeBox-master/CeeBox-master/test.html",
+		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/static/index.html",
+		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/static/assets/css/style.css",
+		"/C/Users/aliciawilkerson/Documents/Tools/jQuery/colorbox-master/colorbox-master/example1/index.html",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/index.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/dtadlock.sublime-project",
+		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/scripts.js",
+		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/assets/php/email.php",
+		"/C/Users/aliciawilkerson/Documents/RAL/New folder/mom.csv",
+		"/C/wamp/www/headacheapp/assets/js/newHeadache.js",
+		"/C/Users/aliciawilkerson/Documents/Tools/jQuery/Calendario-master/Calendario-master/index.html",
+		"/C/wamp/www/headacheapp/assets/forms/newHeadache.html",
+		"/C/wamp/www/headacheapp/assets/css/calendar.css",
+		"/C/wamp/www/headacheapp/assets/js/data.js",
+		"/C/wamp/www/headacheapp/assets/js/jquery.calendario.js",
+		"/C/wamp/www/headacheapp/assets/css/custom_1.css",
+		"/C/wamp/www/headacheapp/assets/js/validate.js",
+		"/C/wamp/www/headacheapp/readme.md",
+		"/C/wamp/www/headacheapp/assets/js/headache.js",
+		"/C/wamp/www/headacheapp/src/sass/layout.scss",
+		"/C/wamp/www/headacheapp/src/sass/ajax.scss",
+		"/C/wamp/www/headacheapp/src/sass/style.scss",
+		"/C/Users/aliciawilkerson/Documents/Tools/jQuery/Calendario-master/Calendario-master/css/demo.css",
+		"/C/Users/aliciawilkerson/Documents/Tools/jQuery/Calendario-master/Calendario-master/index2.html",
+		"/C/Users/aliciawilkerson/Documents/Tools/jQuery/Calendario-master/Calendario-master/README.md",
+		"/C/Users/aliciawilkerson/Documents/Tools/jQuery/jquery.valid8-1.3/index.html",
+		"/C/Users/aliciawilkerson/Documents/Tools/jQuery/jquery.valid8-1.3/dependencies/screen.css",
+		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/wp-config.php",
+		"/C/wamp/www/headacheapp/src/sass/all.scss",
+		"/C/wamp/www/headacheapp/src/js/headache.js",
+		"/C/wamp/www/headacheapp/src/js/headache.min.js",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/JsMinifier/Minifier.sublime-settings",
+		"/C/wamp/www/familytree/script.js",
+		"/C/wamp/www/headacheapp/src/js/jquery.min.js",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/Minifier/Minifier.sublime-settings",
+		"/C/wamp/www/headacheapp/src/js/jquery.min.min.js",
+		"/C/wamp/www/headacheapp/template.html",
+		"/C/wamp/www/headacheapp/assets/css/layout.css",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/User/Minifier.sublime-settings",
+		"/C/wamp/www/headacheapp/assets/css/all.css",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/wamp/www/headacheapp/src/sass/normalize.scss",
+		"/C/wamp/www/headacheapp/config.rb",
+		"/C/wamp/www/headacheapp/src/sass/screen.scss",
+		"/C/wamp/www/headacheapp/assets/css/screen.css",
+		"/C/wamp/www/headacheapp/assets/css/print.css",
+		"/C/wamp/www/headacheapp/src/sass/ie.scss",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/ral.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/ral/customer_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/templates/admin_menu.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/templates/menu.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/assets/scripts/app.js",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/assets/styles/app.css",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/storeAudit.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/viewStoreAudit.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/base.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/auditforstores_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/auditstoreresults_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/viewStoreAudits.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/newAudit.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/newStoreAudit.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/editSectionItems.php",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/audit_model.php",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/playground.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/admin.php",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/WordCount/WordCount.sublime-settings",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/goals_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/viewAudit.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/audits.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/auditsections_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/assets/styles/globals.css",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/User/BracketHighlighter.sublime-settings",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/assets/styles/grid.css",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/sections.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/sectionItems.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/newSection.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/auditsectionitems_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/audititems_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/auditsection_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/audit.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/audit/viewItems.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/audit_items_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/main/Auditsection_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/view/audit/newSection.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/config/database.php",
+		"/C/Users/aliciawilkerson/Dropbox/Writing/A Dark Journey/Revolution/notes/notes.md",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/calendar.php",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/ral/tax_menu.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/ral/menu.php",
+		"/C/Users/aliciawilkerson/Dropbox/Writing/A Dark Journey/markdown/revolution/barley_holding_on.md",
+		"/C/Users/aliciawilkerson/Dropbox/Writing/A Dark Journey/markdown/revolution.md",
+		"/C/Users/aliciawilkerson/Dropbox/Writing/A Dark Journey/Revolution/notes/outline.md",
+		"/C/Users/aliciawilkerson/Dropbox/Writing/A Dark Journey/markdown/revolution/tortured.md",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/customers.php",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/contest/summary.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/goal_summary.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/home.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/base2.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/base_old.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/contest_model.php",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/promotions.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/thegrid.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/templates/footer.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/templates/header.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/reports/week13.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/controllers/issues.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/ideal/income_model.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/idle_search.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/idle_count.php",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/idle_inv.php",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/User/debug_snippet.sublime-snippet",
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/.gitignore",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../images",
+			"images/",
+			"subject",
+			"email",
+			"name",
+			"location",
+			"fc-row",
+			"0s",
+			"255",
+			"=",
+			" =",
+			"obj",
+			"this",
+			"IRequired",
+			"Intensity",
+			"newSymptoms",
+			" last",
+			");\n",
+			"'date input-text",
+			"audit",
+			"$store['finished_at'] != NUL",
+			"label>",
+			"Auditsforstores_model",
+			"auditforstore",
+			"auditforstores",
+			"decode_json",
+			"as_id",
+			"disabled",
+			"		\n",
+			"auditsforstore",
+			"$value",
+			"anchor",
+			"heading",
+			".js",
+			"FreeMoney",
+			"Money",
+			"free",
+			"CASE",
+			"$db['calendar']",
+			"echo",
+			"$results"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "composer.json",
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								50
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"assets/styles/globals.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/aliciawilkerson/Documents/WebSites/playground/intranet.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}

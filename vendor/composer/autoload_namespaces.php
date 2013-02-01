@@ -6,6 +6,8 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'emberlabs\\gravatarlib\\' => $vendorDir . '/emberlabs/gravatarlib/',
+    'dflydev\\markdown' => $vendorDir . '/dflydev/markdown/src',
     'Symfony\\Component\\Translation\\' => $vendorDir . '/symfony/translation/',
     'Symfony\\Component\\Routing\\' => $vendorDir . '/symfony/routing/',
     'Symfony\\Component\\Process\\' => $vendorDir . '/symfony/process/',
@@ -18,6 +20,10 @@ return array(
     'Symfony\\Component\\Console\\' => $vendorDir . '/symfony/console/',
     'Symfony\\Component\\BrowserKit\\' => $vendorDir . '/symfony/browser-kit/',
     'Psr\\Log\\' => $vendorDir . '/psr/log/',
+    'Oly\\WebArtisan' => $vendorDir . '/oly/web-artisan/src/',
     'Monolog' => $vendorDir . '/monolog/monolog/src/',
+    'LaravelBook\\Laravel4Powerpack' => $vendorDir . '/laravelbook/laravel4-powerpack/src/',
+    'Intervention\\Image' => $vendorDir . '/intervention/image/src/',
     'Illuminate' => $vendorDir . '/laravel/framework/src/',
+    'Cartalyst\\Sentry' => $vendorDir . '/cartalyst/sentry/src/',
 );
