@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Admin",
+				"AdminController"
+			],
+			[
 				"ta",
 				"table-cell"
 			],
@@ -79,14 +83,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "composer.json",
-			"settings":
-			{
-				"buffer_size": 465,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -244,6 +240,10 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/wot/app/routes.php",
+		"/C/wamp/www/wot/app/config/live/app.php",
+		"/C/wamp/www/wot/composer.json",
+		"/C/wamp/www/wot/readme.md",
 		"/C/wamp/www/wot/.gitignore",
 		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/static/assets/php/email.php",
 		"/C/Users/aliciawilkerson/Documents/WebSites/dtadlock/static/assets/js/scripts.js",
@@ -367,11 +367,7 @@
 		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/models/ideal/income_model.php",
 		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/idle_search.php",
 		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/idle_count.php",
-		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/idle_inv.php",
-		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/User/debug_snippet.sublime-snippet",
-		"/C/Users/aliciawilkerson/Documents/WebSites/playground/.gitignore",
-		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
-		"/C/Users/aliciawilkerson/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+		"/C/Users/aliciawilkerson/Documents/WebSites/playground/application/views/site/idle_inv.php"
 	],
 	"find":
 	{
@@ -447,39 +443,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "composer.json",
-					"settings":
-					{
-						"buffer_size": 465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								88,
-								50
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

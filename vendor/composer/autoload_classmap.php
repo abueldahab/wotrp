@@ -17,6 +17,8 @@ return array(
     'Cartalyst\\Sentry\\Users\\UserExistsException' => $baseDir . '/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Exceptions.php',
     'Cartalyst\\Sentry\\Users\\UserNotActivatedException' => $baseDir . '/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Exceptions.php',
     'Cartalyst\\Sentry\\Users\\UserNotFoundException' => $baseDir . '/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Exceptions.php',
+    'CreateCache' => $baseDir . '/app/database/migrations/2013_02_04_211626_createCache.php',
+    'CreateSessions' => $baseDir . '/app/database/migrations/2013_02_04_211606_createSessions.php',
     'HomeController' => $baseDir . '/app/controllers/HomeController.php',
     'MigrationCartalystSentryInstallGroups' => $baseDir . '/vendor/cartalyst/sentry/src/migrations/2012_12_06_225929_migration_cartalyst_sentry_install_groups.php',
     'MigrationCartalystSentryInstallThrottle' => $baseDir . '/vendor/cartalyst/sentry/src/migrations/2012_12_06_225988_migration_cartalyst_sentry_install_throttle.php',
@@ -67,5 +69,6 @@ return array(
     'Pheanstalk_YamlResponseParser' => $baseDir . '/vendor/laravel/framework/src/Illuminate/Queue/Pheanstalk/Pheanstalk/YamlResponseParser.php',
     'SessionHandlerInterface' => $baseDir . '/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Resources/stubs/SessionHandlerInterface.php',
     'TestCase' => $baseDir . '/app/tests/TestCase.php',
+    'TheFourthAge' => $baseDir . '/app/models/TheFourthAge.php',
     'User' => $baseDir . '/app/models/User.php',
 );

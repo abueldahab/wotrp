@@ -4,6 +4,7 @@
 // Static Pages
 Route::get('/', function()
 {
+	echo TheFourthAge::today();
 	return View::make('static/index');
 });
 
@@ -37,7 +38,7 @@ Route::post('profile', 'AuthController@updateProfile');
 
 // Character Pages not logged in
 Route::get('characters', 'CharacterController@index');
-Route::get('character/{slug}', 'CharacterController@view')
+Route::get('character/{slug}', 'CharacterController@view');
 
 // Character Pages logged in
 Route::get('my-characters', 'CharacterController@myCharacters');
@@ -59,13 +60,15 @@ Route::post('reply', 'ForumController@postReply');
 Route::post('close/{slug}', 'ForumController@close');  // Can only be done by the person who started the Thread or a Moderator rewards XP
 Route::get('post/{id}/edit', 'ForumController@editPost'); // Can only edit your own posts
 Route::post('post/edit', 'ForumController@updatePost');
+Route::get('forums/mark-read', 'ForumController@markAllForumsRead'); // Mark All Forums Read
+Route::get('forums/{id}/mark-read', 'ForumController@markForumRead'); // Mark a Forum Read
 
 /** Moderator Pages **/
 
-Route::delete('post/{id}', 'ForumController@deletePost');
-Route::delete('thread{id}', 'ForumController@deleteThread');
-Route::post('thread/lock/{id}', 'FourmController@lockThread'); // Locking a Thread does not reward XP
-Route::post('feature{id}', 'Forums@featureThread'); // Shows up on Home Page
+Route::get('post/{id}/delete', 'ForumController@deletePost');
+Route::get('thread{id}/delete', 'ForumController@deleteThread');
+Route::get('thread/{id}/lock', 'FourmController@lockThread'); // Locking a Thread does not reward XP
+Route::get('feature/{id}', 'Forums@featureThread'); // Shows up on Home Page
 
 /** Admin Pages **/
 
@@ -74,11 +77,13 @@ Route::get('admin', 'AdminController@index');
 Route::get('admin/users', 'AdminController@users');
 Route::get('admin/user/{id}', 'AdminController@viewUser');
 Route::post('admin/user','AdminController@editUser');
+Route::delete('admin/user/{id}', 'AdminController@deleteUser');
 
 // Character Pages
 Route::get('admin/characters', 'AdminController@chracters');
 Route::get('admin/character/{id}', 'AdminController@viewCharacter');
 Route::post('admin/character', 'AdminController@editCharacter');
+Route::get('admin/character/{id}/delete', 'AdminController@deleteCharacter');
 
 // Other Pages
 Route::get('admin/stats', 'AdminController@stats');
@@ -88,3 +93,4 @@ Route::get('admin/news', 'AdminController@news');
 Route::post('admin/news/create', 'AdminController@createNews');
 Route::get('admin/news/{id}', 'AdminController@viewNews');
 Route::post('admin/news/edit', 'AdminController@editNews');
+Route::get('admin/news/{id}/delete', 'AdminController@deleteNews');
