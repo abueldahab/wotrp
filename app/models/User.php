@@ -38,4 +38,9 @@ class User extends Eloquent implements UserInterface {
 		return $this->password;
 	}
 
+	public function character()
+	{
+		return $this->hasMany('Character');
+	}
+
 }
